@@ -9,7 +9,7 @@ Eğlence Otobüsü, sitelerini daha interaktif bir hale getirmenizi istiyor. Sit
 * [+] Bu projeyi forklayarak bir kopyasını oluşturun.
 * [+] Reponun kendi hesabınızdaki versiyonunuzu klonlayın.
 * [+] Projeyi main branchına implement edin
-* [ ] Commitinizi pushlayın: `git push origin main`.
+* [+] Commitinizi pushlayın: `git push origin main`.
 
 ## Projeyi çalıştırma
 
